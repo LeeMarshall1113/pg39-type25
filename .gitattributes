@@ -2,7 +2,5 @@
 *.py text eol=lf
 *.md text eol=lf
 *.gz binary
-*.json text eol=lf
-*.cff text eol=lf
 # Keep exact bytes: the README and the manifests record SHA-256 of these files.
 * -text
