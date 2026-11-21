@@ -51,7 +51,7 @@ All of them have been regenerated locally except one: the full local regeneratio
 | `certs/` | `manifest.jsonl`, `PROOF-INDEX.tsv`, `cubes_*.json`, `split_*.json` (cube and child lists) |
 | `results/` | planar classes and frame solutions, ledger, parameter table |
 | `logs/` | run logs |
-| Zenodo | formulas (CNF) and stored LRAT proofs: https://doi.org/10.5281/zenodo.24259948 (4 planar proofs, 19 cover proofs with formulas, the small formulas; put them in `certs/`) |
+| Release files | formulas (CNF) and stored LRAT proofs, attached to release v1.0.1 of this repository: https://github.com/LeeMarshall1113/pg39-type25/releases/tag/v1.0.1 . `planar_complete_k35_R0.lrat` (2.5 GB) is split in two: join with `cat planar_complete_k35_R0.lrat.part0* > planar_complete_k35_R0.lrat`; hashes in `SHA256SUMS` and `SHA256SUMS.parts`. The same files are being deposited on Zenodo, doi:10.5281/zenodo.24259948 (not yet published). Contents: (4 planar proofs, 19 cover proofs with formulas, the small formulas; put them in `certs/`) |
 
 ## Hashes
 
