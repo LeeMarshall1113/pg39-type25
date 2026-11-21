@@ -74,8 +74,13 @@ All of them have been regenerated locally except one: the full local regeneratio
 
 ## How to cite
 
-Lee Marshall, *No set of type (2,5) with respect to lines in PG(3,9)*, 2026, folder `results/pg39-type25` of https://github.com/LeeMarshall1113/ai-math-results; certificates: https://doi.org/10.5281/zenodo.24259948 (v1).
+Lee Marshall, *No set of type (2,5) with respect to lines in PG(3,9)*, 2026, https://github.com/LeeMarshall1113/pg39-type25 (also folder `results/pg39-type25` of https://github.com/LeeMarshall1113/ai-math-results); certificates: https://doi.org/10.5281/zenodo.24259948 (v1).
 
 ## AI statement
 
 The search, encodings, certificates and drafts were produced by AI assistants (Claude, Anthropic) under the direction of Lee Marshall, with an adversarial review by a second AI system. None of it has been through human peer review. Please check the certificates yourself, and please report errors or earlier work we missed (open an issue).
+
+## Provenance
+
+This repository is the standalone home of the folder `results/pg39-type25` of
+https://github.com/LeeMarshall1113/ai-math-results (split with history from commit cabb9bf). The folder there is kept so that existing links and citations stay valid.

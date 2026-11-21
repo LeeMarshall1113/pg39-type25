@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this result, please cite this repository (and the Zenodo DOI of the release you used)."
+title: "No set of type (2,5) with respect to lines in PG(3,9)"
+abstract: >-
+  Computer-assisted proof that no point set of PG(3,9) meets every line in exactly 2 or exactly 5 points. SAT with cube splitting; every refutation has an LRAT proof checked by a formally verified checker. Code, cube lists, logs and replay scripts; the large formulas and proofs are in a separate Zenodo dataset named in the README. AI-generated under Lee Marshall's direction; not peer reviewed.
+authors:
+  - family-names: Marshall
+    given-names: Lee
+type: software
+repository-code: "https://github.com/LeeMarshall1113/pg39-type25"
+keywords: ["finite geometry", "two-intersection sets", "projective space", "SAT", "computer-assisted proof"]
