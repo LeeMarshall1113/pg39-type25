@@ -70,7 +70,7 @@ All of them have been regenerated locally except one: the full local regeneratio
 - The hand lemmas are not formalised; they are proved in the text and machine-checked on the actual geometry.
 - Encoder exactness at full size rests on a proof plus exhaustive small cases and sampling.
 - The planar classification was compared with Penttila-Royle (Des. Codes Cryptogr. 6 (1995) 229-245) on 2026-11-22 and agrees with their Tables 6 and 7 for PG(2,9): 3 classes of 26-sets (stabiliser orders 80, 26, 16) and 7 classes of 35-sets (orders 64, 40, 32, 32, 16, 16, 2).
-- The corollary depends on Tallini Scafati's theorem as stated in Calderbank-Kantor.
+- The corollary depends on Tallini Scafati's theorem as stated in Calderbank-Kantor. We have since read her 1976 paper (Rend. Accad. Naz. Lincei 60, 782-788): its Proposition V gives the explicit parameters (for q = 9: type (2,5) with 260 or 287 points) and quotes the underlying result for lines from her 1972 paper (Rend. Accad. Naz. Lincei 53, 71-81, Proposition XIV), which we have not read.
 
 ## How to cite
 
