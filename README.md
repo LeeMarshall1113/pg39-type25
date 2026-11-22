@@ -69,7 +69,7 @@ All of them have been regenerated locally except one: the full local regeneratio
 - The refutation proofs were deleted after checking. What a reader trusts, unless they re-run them, are the drivers' records (formula and proof hashes, the checker's last line). For 1,250 of the 1,251 cloud certificates the local run agrees bit for bit with the cloud run; the remaining cube is closed by a split that was verified locally only (no cloud record of its 140 children).
 - The hand lemmas are not formalised; they are proved in the text and machine-checked on the actual geometry.
 - Encoder exactness at full size rests on a proof plus exhaustive small cases and sampling.
-- The planar classification has not been compared with Penttila-Royle.
+- The planar classification was compared with Penttila-Royle (Des. Codes Cryptogr. 6 (1995) 229-245) on 2026-11-22 and agrees with their Tables 6 and 7 for PG(2,9): 3 classes of 26-sets (stabiliser orders 80, 26, 16) and 7 classes of 35-sets (orders 64, 40, 32, 32, 16, 16, 2).
 - The corollary depends on Tallini Scafati's theorem as stated in Calderbank-Kantor.
 
 ## How to cite
