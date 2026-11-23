@@ -9,3 +9,4 @@ authors:
 type: software
 repository-code: "https://github.com/LeeMarshall1113/pg39-type25"
 keywords: ["finite geometry", "two-intersection sets", "projective space", "SAT", "computer-assisted proof"]
+doi: 10.5281/zenodo.24451165

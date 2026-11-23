@@ -78,6 +78,8 @@ Lee Marshall, *No set of type (2,5) with respect to lines in PG(3,9)*, 2026, htt
 
 **Licence.** Code: MIT (`LICENSE`). Text, data and certificates: CC BY 4.0 (`LICENSE-CC-BY-4.0.md`).
 
+**DOI (all versions):** https://doi.org/10.5281/zenodo.24451165 (Zenodo archive of this repository; each release also has its own DOI there).
+
 **If you build on this.** Please cite this repository and its DOI. If this result forms a substantial part of a paper, please get in touch about co-authorship before submission.
 
 ## AI statement
